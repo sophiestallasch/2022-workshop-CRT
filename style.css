@@ -1,0 +1,11 @@
+/* Tables: */
+th{
+  font-family: Arial;
+  font-size: 10pt;
+}
+
+.table>tbody>tr>td{
+	font-family: Arial;
+    font-size: 10pt;
+    line-height: 1;
+}
